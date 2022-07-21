@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(156, 156, 223);
+    color: #fff;
+    font: normal 15pt arial;
+
+}
+
+header{
+    text-align: center;
+    margin-top: 40px;
+}
+
+section{
+    margin-top: 30px;
+    background-color: #fff;
+    width: 80%;
+    max-width: 500px;
+    margin-inline: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+    color: black;
+}
+
+div{
+    text-align: center;
+    padding: 10px;
+}
+
+img{
+    border-radius: 50%;
+}
+
+footer{
+    text-align: center;
+    margin-top: 40px;
+    font-style: italic;
+}
